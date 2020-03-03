@@ -4,7 +4,7 @@ A windows (windows/servercore) docker image that will run ClamAV (clamd) and exp
 
 It will run freshclam before it starts hosting clamd, so should get latest database.
 
-The docker image is built on Windows 2019 (Build 1903). It is forked from https://github.com/grofit/docker-clamav-windows
+The docker image is built on Windows 2019 (Build 1903).
 
 ## Usage
 

@@ -9,7 +9,7 @@ The docker image is built on Windows 2019 (Build 1903). It is forked from https:
 ## Usage
 
 ```
-docker run -d -p 3310:3310 williamwlchen/clamav-windows
+docker run -d -p 3310:3310 grofit/clamav-windows
 ```
 
 ## Environment Vars
